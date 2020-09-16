@@ -1,1 +1,1 @@
-# regression-techniques
+# Repository for Regression Techniques
